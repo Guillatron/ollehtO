@@ -1,0 +1,2 @@
+He hecho las comprobaciones básicas al colocar una ficha, me queda pensar cómo organizar el "bucle del juego".
+Creo que voy a hacer un uso más asiduo de let, facilita bastante las cosas.

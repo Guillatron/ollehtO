@@ -1,0 +1,1 @@
+("7.4" racket ("3e59531e4994e45355f3b1459b382a38d444c924" . "518ed4690263443d5971f2126351d7ef9bc8b19e") (collects #"errortrace" #"errortrace-key.rkt") (collects #"graphics" #"Graphics.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
